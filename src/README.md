@@ -1,3 +1,5 @@
+# Name: Nghia Hoang
+# UMN Email: hoang241@umn.edu
 #3rd party assets used:
 
 [Ground texture]: map of California from https://www.nationsonline.org/oneworld/map/USA/california_map.htm
